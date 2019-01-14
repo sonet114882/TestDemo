@@ -5,7 +5,7 @@ public class Frist_class {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
  String name="bristi";
- 
+ System.out.println(name);
  
  
  
